@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Ilanchezhian J   - ilanchezhian18@gmail.com
-- 👀 I’m interested in ... Python, NLP, Azure ML
-- 🌱 I’m currently learning ...  Azure ML
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...ilanchezhian18@gmail.com/ +91-9894672398
+- 👋 Hi, I’m Ilanchezhian J   - ilanchezhian619@gmail.com
+- 👀 I’m interested in ... Python, NLP, MLOps
+- 🌱 I’m currently learning ...  LLMOps
+- 📫 How to reach me ...ilanchezhian619@gmail.com/ +91-9894672398
 - From India - Pondicherry - Eripakkam
 
 <!---
