@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilanchezhian J
 - 👀 I’m interested in ... Python, NLP, MLOps
-- 🌱 I’m currently learning ...  Agentic AI
+- 🌱 I’m currently learning ... Agentic AI
 - 📫 How to reach me ... ilanchezhian619@gmail.com
 - From India - Pondicherry <-> Bangalore
 
